@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=Tstory&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-### **Machine Learning Engineer** :🚗::여성::피부톤-2::망치와_렌치:
+### **Machine Learning Engineer** :🚗::🚨::피부톤-2::망치와_렌치:
 
 I hope to develop every things.
 
